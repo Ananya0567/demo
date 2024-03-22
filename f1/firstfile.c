@@ -1,5 +1,5 @@
-include<stdio.h>
+#include<stdio.h>
 void main()
 {
-    printf(yellow world);
+    printf("yellow world");
 }
